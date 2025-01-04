@@ -4,10 +4,11 @@ Challenge no. 1 del Curso "Java Orientado a Objetos" de Alura ONE
 # Contenido 
 1. Descripción
 2. Uso
-3. Tecnologías utilizadas
-4. Requisitos Previos
-5. Agradecimientos y créditos
-6. Autor y contacto
+3. Capturas
+4. Tecnologías utilizadas
+5. Requisitos Previos
+6. Agradecimientos y créditos
+7. Autor y contacto
 
 # Descripción 
 Con éste programa serás capáz de realizar conversiones entre las divisas más reelevantes de la economía mundial actualmente. 
@@ -57,16 +58,19 @@ Si ingresas "S" seguiremos realizando mas conversiones repitiendo el proceso com
 Si eliges "N" el programa te avisará que el proceso ha finalizado y que tu historial de conversiones ha sido 
 guardado en un archivo .JSON
 
+# Capturas 
+
+
 # Tecnologías Utilizadas
 Para la elaboración de éste proyecto se utilizaron las siguientes herramientas y lenguajes. 
 
 - Java 17 como lenguaje
-- Consumo de API desde https://www.exchangerate-api.com/
+- Consumo de API desde [Exchange Rate API](https://www.exchangerate-api.com/)
 - Librería GSON
 - Trello
 
 # Requisitos Previos 
-* Librería Gson 2.11.0 (https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0)
+* Librería [Gson 2.11.0](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0)
 * API Key proporcionada por ExchangeRate-API, reemplazar valor de variable de entorno por su propia API
 
 # Agradecimientos y Créditos
