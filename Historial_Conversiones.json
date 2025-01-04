@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": "2025-01-04",
+    "monedaBase": "USD",
+    "monedaTarget": "MXN",
+    "tipoDeCambio": 100.0,
+    "monto": 2063.94,
+    "total": 20.6394
+  },
+  {
+    "fecha": "2025-01-04",
+    "monedaBase": "JPY",
+    "monedaTarget": "CLP",
+    "tipoDeCambio": 100.0,
+    "monto": 638.97,
+    "total": 6.3897
+  },
+  {
+    "fecha": "2025-01-04",
+    "monedaBase": "ARS",
+    "monedaTarget": "MXN",
+    "tipoDeCambio": 200.0,
+    "monto": 3.9899999999999998,
+    "total": 0.01995
+  },
+  {
+    "fecha": "2025-01-04",
+    "monedaBase": "BRL",
+    "monedaTarget": "MXN",
+    "tipoDeCambio": 100.0,
+    "monto": 334.68,
+    "total": 3.3468
+  },
+  {
+    "fecha": "2025-01-04",
+    "monedaBase": "GBP",
+    "monedaTarget": "MXN",
+    "tipoDeCambio": 1.0,
+    "monto": 25.6136,
+    "total": 25.6136
+  }
+]
