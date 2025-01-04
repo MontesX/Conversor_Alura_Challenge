@@ -59,7 +59,11 @@ Si eliges "N" el programa te avisará que el proceso ha finalizado y que tu hist
 guardado en un archivo .JSON
 
 # Capturas 
+![Captura_1](https://github.com/MontesX/Conversor_Alura_Challenge/blob/c9837e10b4cd353366f1231e4bef603c4fc3afa1/captura_1.JPG)
 
+![Captura_2](https://github.com/MontesX/Conversor_Alura_Challenge/blob/c9837e10b4cd353366f1231e4bef603c4fc3afa1/captura_2.JPG)
+
+![Captura_3](https://github.com/MontesX/Conversor_Alura_Challenge/blob/c9837e10b4cd353366f1231e4bef603c4fc3afa1/captura_3.JPG)
 
 # Tecnologías Utilizadas
 Para la elaboración de éste proyecto se utilizaron las siguientes herramientas y lenguajes. 
